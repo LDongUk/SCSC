@@ -1,0 +1,1 @@
+https://github.com/rm-hull/hmc5883l
